@@ -1,6 +1,6 @@
 # iBooks Widget to Embed YouTube Videos
 Apple iBooks Author program doesn't natively provide the ability to embed a YouTube video within an iBook.
-I follow [this tutorial](https://www.youtube.com/watch?v=gWZbCv83Fso) [^tutorial] that shows you how to use Dashcode to create a custom widget that enables you to embed a YouTube video within an iBook.
+I follow [this tutorial](https://www.youtube.com/watch?v=gWZbCv83Fso) [1] that shows you how to use Dashcode to create a custom widget that enables you to embed a YouTube video within an iBook.
 
 As Dascode is no more available after Mac OS X 10.0 here are four widget that embeds YouTube video in iBooks Author.  
 
@@ -21,7 +21,7 @@ Click-and-drag the `.wdgt` file into iBooks Author. Done!
 
 ## Preview image
 Replace `Default.png` image with a nice preview of your video. You can also drag an image inside iBook Author.  
-For retina display include a `Default@2x.png` file in your widget. Make the file twice the resolution of the Default.png file. You can't see this file in iBooks Author, but you can see it in iBooks on a Retina display.[^retina]
+For retina display include a `Default@2x.png` file in your widget. Make the file twice the resolution of the Default.png file. You can't see this file in iBooks Author, but you can see it in iBooks on a Retina display.[2]
 
 ## Widget dimensions
 Tu costomize widget dimension open up `Info.plist` and set the appropriate width and height for your widget.
@@ -38,7 +38,7 @@ These widgets were created following this video tutorial:
 > License - http://trevorburnham.mit-license.org/
  
 
-[^tutorial]: [Embedding a YouTube Video in iBooks Author](https://www.youtube.com/watch?v=gWZbCv83Fso)
-[^retina]: [Tips for creating widgets](https://support.apple.com/en-us/HT204433)
+[1]: [Embedding a YouTube Video in iBooks Author](https://www.youtube.com/watch?v=gWZbCv83Fso)  
+[2]: [Tips for creating widgets](https://support.apple.com/en-us/HT204433)
 
 
