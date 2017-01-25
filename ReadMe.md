@@ -36,8 +36,8 @@ These widgets were created following this video tutorial:
 > Based on work by the author of *[CoffeeScript: An Interactive Reference](http://click.linksynergy.com/fs-bin/stat?id=j5lGZbrn4Rg&offerid=243958&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fbook%252Fcoffeescript%252Fid498532763%253Fmt%253D11%2526uo%253D4%2526partnerId%253D30)*, now available in the iBooks store.
 
 > License - http://trevorburnham.mit-license.org/
- 
 
+--------
 <a id="f1">1</a>: [Embedding a YouTube Video in iBooks Author](https://www.youtube.com/watch?v=gWZbCv83Fso) [↩](#a1)  
 <a id="f2">2</a>: [Tips for creating widgets](https://support.apple.com/en-us/HT204433) [↩](#a2)
 
